@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18aad1e3-dc67-4fc3-a6cf-398f2bca82dc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/DEMO-CollectionDemo/target/" />
+    <ignored path="$PROJECT_DIR$/DEMO-DateDemo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DEMO$FileDemo.coverage" NAME="FileDemo Coverage Results" MODIFIED="1589970284926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.file.demo.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/collections/TreeSetDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/collections/Students.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/collections/HashSetDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/pojo/HashSetDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/HashSetDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/pojo/Students.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/LinkedHashSetDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/TreeSetDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/总结.txt" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/MapDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/LinkedHashMapDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/TreeMapDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/CollectionDemo2.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/ListDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/java基础开发实践.md" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/Book.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/UsbMouse.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/UPan.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/UsbPan.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/TreeSetDemo1.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/FinallyDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/HashMapDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/EceptionDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/ExceptionDemo1.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/ScoreException.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/Teacher.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/test/java/com/demo/SacoreTest.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/SacoreTest.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/CollectionDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/IteratorDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/USB.java" />
+        <option value="$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/BookPC.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/DateDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/SimpleDateFormatDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/DateUtilDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/FileDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileDemo2.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FilkeDemo3.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileAndContextDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/RegexDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/URLSaveDemo.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileUtil.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/test.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/a.java" />
+        <option value="$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/DateUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DEMO-CollectionDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DEMO-CollectionDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="684" />
+    <option name="y" value="285" />
+    <option name="width" value="842" />
+    <option name="height" value="588" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DEMO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DEMO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DEMO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="DEMO-DateDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DEMO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="DEMO-DateDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DEMO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="DEMO-DateDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DEMO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="DEMO-DateDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExerciseTest" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.date.demo" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo" />
+      <recent name="com.demo2" />
+      <recent name="com.collections" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace\DEMO\DEMO-DateDemo" />
+      <recent name="D:\IDEAworkspace\DEMO\DEMO-CollectionDemo\src\main\java\com\demo2" />
+      <recent name="D:\IDEAworkspace\DEMO\DEMO-CollectionDemo\src\test\java\com\demo" />
+      <recent name="D:\IDEAworkspace\DEMO\DEMO-CollectionDemo" />
+      <recent name="D:\IDEAworkspace\DEMO\DEMO-CollectionDemo\src\main\java\com\collections" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.a">
+    <configuration name="FileAndContextDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.file.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.file.demo.FileAndContextDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DEMO-DateDemo" />
+      <envs />
+    </configuration>
+    <configuration name="FileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.file.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.file.demo.FileDemo2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DEMO-DateDemo" />
+      <envs />
+    </configuration>
+    <configuration name="RegexDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.file.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.file.demo.RegexDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DEMO-DateDemo" />
+      <envs />
+    </configuration>
+    <configuration name="URLSaveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.file.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.file.demo.URLSaveDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DEMO-DateDemo" />
+      <envs />
+    </configuration>
+    <configuration name="URLSaveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.file.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.file.demo.URLSaveDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DEMO-DateDemo" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.date.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.date.demo.a" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DEMO-DateDemo" />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.FileDemo2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RegexDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FileAndContextDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.URLSaveDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.a" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.a" />
+        <item index="1" class="java.lang.String" itemvalue="Application.URLSaveDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FileAndContextDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.URLSaveDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RegexDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18aad1e3-dc67-4fc3-a6cf-398f2bca82dc" name="Default" comment="" />
+      <created>1589536633627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589536633627</updated>
+      <workItem from="1589536636475" duration="7755000" />
+      <workItem from="1589600802443" duration="88000" />
+      <workItem from="1589635860195" duration="3702000" />
+      <workItem from="1589676337442" duration="4305000" />
+      <workItem from="1589686720787" duration="2658000" />
+      <workItem from="1589689645823" duration="1081000" />
+      <workItem from="1589705327785" duration="8436000" />
+      <workItem from="1589856073479" duration="592000" />
+      <workItem from="1589870209713" duration="678000" />
+      <workItem from="1589888100750" duration="5974000" />
+      <workItem from="1589936762823" duration="18434000" />
+      <workItem from="1590055856833" duration="7205000" />
+      <workItem from="1590118826123" duration="2996000" />
+      <workItem from="1590147872800" duration="562000" />
+      <workItem from="1590245854024" duration="2035000" />
+      <workItem from="1590282042413" duration="3209000" />
+      <workItem from="1590300200793" duration="1046000" />
+      <workItem from="1590374544222" duration="30000" />
+      <workItem from="1590647264486" duration="28000" />
+      <workItem from="1590661543828" duration="118000" />
+      <workItem from="1590662238990" duration="327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CollectionDemo1_addTest - 2020.05.15 at 20h 41m 16s.xml">
+      <configuration name="CollectionDemo1.addTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo1_containsTest - 2020.05.15 at 20h 39m 14s.xml">
+      <configuration name="CollectionDemo1.containsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo1_containsTest - 2020.05.15 at 20h 39m 45s.xml">
+      <configuration name="CollectionDemo1.containsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo1_containsTest - 2020.05.15 at 20h 40m 33s.xml">
+      <configuration name="CollectionDemo1.containsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo1_containsTest - 2020.05.15 at 20h 41m 28s.xml">
+      <configuration name="CollectionDemo1.containsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo_addTest - 2020.05.15 at 20h 27m 05s.xml">
+      <configuration name="CollectionDemo.addTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo_addTest - 2020.05.15 at 20h 28m 43s.xml">
+      <configuration name="CollectionDemo.addTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionDemo_containsTest - 2020.05.15 at 20h 30m 34s.xml">
+      <configuration name="CollectionDemo.containsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SacoreTest_checkScore - 2020.05.17 at 19h 27m 46s.xml">
+      <configuration name="SacoreTest.checkScore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SacoreTest_checkScore - 2020.05.17 at 19h 28m 45s.xml">
+      <configuration name="SacoreTest.checkScore" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="684" y="285" width="842" height="588" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938856" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29028133" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2737819" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4168798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42759797" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.274276" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/FinallyDemo.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/FinallyDemo.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/Book.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/UPan.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/TreeSetDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/FinallyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/LinkedHashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/EceptionDemo.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/TreeMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/ExceptionDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/test/java/com/demo/SacoreTest.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/CollectionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/CollectionDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/CollectionDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/HashSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/IteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/LinkedHashSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/ListDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/TreeSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo/VectorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/HashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/QueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="52" column="33" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/SacoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/ScoreException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo2/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/java基础开发实践.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="19">
+            <caret line="164" column="24" lean-forward="true" selection-start-line="164" selection-start-column="24" selection-end-line="164" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/USB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/UsbMouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/UsbPan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/BookPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/src/main/java/com/demo3/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/SimpleDateFormatDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/DateUtilDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/java-workprojects/Java_20/src/cn/itcast_01/FileInputStreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-CollectionDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileAndContextDemo.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/URLSaveDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/URLSaveDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/RegexDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/file/demo/FileDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/java进阶开发实践.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2167">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/a.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/test.java" />
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEMO-DateDemo/src/main/java/com/date/demo/DateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DEMO-DateDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
